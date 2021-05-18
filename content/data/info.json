@@ -1,10 +1,9 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p>이 곳은 kjh의 영상 작업물을 아카이빙한 포트폴리오 사이트입니다.</p>",
+  "cta": "<p>문의 및 의뢰는 아래의 이메일로 연락 부탁드립니다.</p>",
   "contact": {
-    "email": "info@forestry.io",
-    "twitter_handle": "forestryio",
-    "github_handle": "forestryio"
+    "email": "kjh.appro@gmail.com",
+    "github_handle": "kjh-appro"
   },
   "background_color": "#B1BCBC"
 }
