@@ -2,7 +2,7 @@
 date: '2021-01-01T14:11:00.000Z'
 title: Stationery Science Book Trailer (draft)
 author: KJH
-hero_image: "/content/images/fin_HAGO PV_big_thum.jpg"
+hero_image: "/content/images/fin_Book Trailer00_thum.jpg"
 
 ---
 # information
